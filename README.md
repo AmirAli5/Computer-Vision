@@ -17,5 +17,15 @@ In this project I made detection system which detects the real time objects. I u
 3.	Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks
 4.	Robust Real-time Object Detection Paul Viola Michael J. Jones
 
+## Project 3: Image Creation with Deep Convolutional GANs
+In this project create a fake images from real image using Deep Convolutional GANs (Generative Adversarial Networks) .For creating new images from real image we use CIFAR-10 dataset. In this project we pytorch library and build a model (Generator & Discriminator) from scratch. During training a model I run only one number of epoch because I am student I can’t have complete source to run this model for maximum  number of epochs because It’ required high level system to run this model which I can’t offered. I run only one number of epochs and achieved more than 80% accuracy.
+#### Source:
+https://www.cs.toronto.edu/~kriz/cifar.html
+#### References:
+1.	Generative Adversarial Nets Authors: Ian Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley,Sherjil Ozair, Aaron Courville, Yoshua Bengio
+2.	Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks Alec Radford, Luke Metz, Soumith Chintala
+3.	Deep Generative Image Models using a ￼Laplacian Pyramid of Adversarial Networks Authors: Emily L. Denton, Soumith Chintala, arthur szlam, Rob Fergus,
+4.	Conditional Generative Adversarial Nets Authors: Mehdi Mirza, Simon Osindero
+
 
 
