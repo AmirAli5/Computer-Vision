@@ -27,7 +27,7 @@ In this project I made detection system which detects the real time objects. I u
 1.	SSD: Single Shot Multi Box Detector Wei Liu1, Dragomir Anguelov2, Dumitru Erhan3, Christian Szegedy3, Scott Reed4, Cheng-Yang Fu1, Alexander C. Berg1 1UNC Chapel Hill 2Zoox Inc. 3Google Inc. 4University of Michigan, Ann-Arbor 1 wliu@cs.unc.edu, 2 drago@zoox.com, 3 {dumitru,szegedy}@google.com, 4reedscot@umich.edu, 1 {cyfu,aberg}@cs.unc.edu
 2.	Object recognition and detection with deep learning for autonomous driving applications Ayşegül Uçar, Yakup Demir, Cüneyt Güzeliş
 3.	Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks
-4.	Robust Real-time Object Detection Paul Viola Michael J. Jones
+4.	Robust Real-time Object Detection Paul Viola Michael J. Jones 
 
 ## Project 3: Image Creation with Deep Convolutional GANs
 In this project create a fake images from real image using Deep Convolutional GANs (Generative Adversarial Networks) .For creating new images from real image we use CIFAR-10 dataset. In this project we pytorch library and build a model (Generator & Discriminator) from scratch. During training a model I run only one number of epoch because I am student I can’t have complete source to run this model for maximum  number of epochs because It’ required high level system to run this model which I can’t offered. I run only one number of epochs and achieved more than 80% accuracy.
