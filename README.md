@@ -12,7 +12,7 @@ https://www.linkedin.com/in/amiralicheema/
 #### My Medium Blog
 https://medium.com/machine-learning-researcher
 
-These are project which I have done.
+These are projects which I have done.
 ## Project 1: Face Recognition with Emotion capture using Open CV
 In this project I made face Recognition using open CV Libraries. Basically these face Detection projects detect your face with Green Rectangle eyes with Blue Detection and Red Rectangle detect Smile face which your face make a smile. I use haarcascade_eye for detecting eyes, haarcascade_frontalface_default for face detection and haarcascade_smile for detect smile face.
 #### Source data:
