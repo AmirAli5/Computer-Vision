@@ -1,6 +1,6 @@
 # Computer Vision
 In this Computer Vision Repository I have upload five projects Related to Computer vision which I have done. 
-#### The following projects is :
+#### The following projects is:
 1.	Face Recognition with Emotion capture using Open CV, 
 2.	Real Time Object Recognition using Single Shot Detection (SSD). 
 3.	Image Creation with Deep Convolutional GANs. 
